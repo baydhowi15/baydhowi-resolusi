@@ -4,4 +4,3 @@ Achmad Baydhowi Resolusi
 - Mengembangkan aplikasi
 - Belajar CodeIgnite
 - Belajar OOP PHP
-- Belajar SQL
